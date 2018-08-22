@@ -1,0 +1,245 @@
+{
+	"d": {
+		"results": [{
+			"attributeSetID": "QUNIT_FIORI_TESTS",
+			"attributeSet": "QUnit Fiori Tests - DO NOT TOUCH",
+			"attributeID": "SAP_0000001048",
+			"attribute": "qunit_char",
+			"attributeDatatype": "CHAR",
+			"category": "",
+			"currency": "",
+			"decimalPlaces": "00",
+			"person": "X",
+			"organization": "X",
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingMarketingAttributeCollection(attributeSetID='QUNIT_FIORI_TESTS',attributeID='SAP_0000001048')",
+				"type": "CRM_BUPA_ODATA.CustomizingMarketingAttribute",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingMarketingAttributeCollection(attributeSetID='QUNIT_FIORI_TESTS',attributeID='SAP_0000001048')"
+			}
+		}, {
+			"attributeSetID": "QUNIT_FIORI_TESTS",
+			"attributeSet": "QUnit Fiori Tests - DO NOT TOUCH",
+			"attributeID": "SAP_0000001049",
+			"attribute": "qunit_char_ddlb",
+			"attributeDatatype": "CHAR",
+			"category": "",
+			"currency": "",
+			"decimalPlaces": "00",
+			"person": "X",
+			"organization": "X",
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingMarketingAttributeCollection(attributeSetID='QUNIT_FIORI_TESTS',attributeID='SAP_0000001049')",
+				"type": "CRM_BUPA_ODATA.CustomizingMarketingAttribute",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingMarketingAttributeCollection(attributeSetID='QUNIT_FIORI_TESTS',attributeID='SAP_0000001049')"
+			}
+		}, {
+			"attributeSetID": "QUNIT_FIORI_TESTS",
+			"attributeSet": "QUnit Fiori Tests - DO NOT TOUCH",
+			"attributeID": "SAP_0000001066",
+			"attribute": "qunit_check_table",
+			"attributeDatatype": "CHEC",
+			"category": "",
+			"currency": "",
+			"decimalPlaces": "00",
+			"person": "X",
+			"organization": "X",
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingMarketingAttributeCollection(attributeSetID='QUNIT_FIORI_TESTS',attributeID='SAP_0000001066')",
+				"type": "CRM_BUPA_ODATA.CustomizingMarketingAttribute",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingMarketingAttributeCollection(attributeSetID='QUNIT_FIORI_TESTS',attributeID='SAP_0000001066')"
+			}
+		}, {
+			"attributeSetID": "QUNIT_FIORI_TESTS",
+			"attributeSet": "QUnit Fiori Tests - DO NOT TOUCH",
+			"attributeID": "SAP_0000001058",
+			"attribute": "qunit_currency_eur",
+			"attributeDatatype": "CURR",
+			"category": "",
+			"currency": "EUR",
+			"decimalPlaces": "02",
+			"person": "X",
+			"organization": "X",
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingMarketingAttributeCollection(attributeSetID='QUNIT_FIORI_TESTS',attributeID='SAP_0000001058')",
+				"type": "CRM_BUPA_ODATA.CustomizingMarketingAttribute",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingMarketingAttributeCollection(attributeSetID='QUNIT_FIORI_TESTS',attributeID='SAP_0000001058')"
+			}
+		}, {
+			"attributeSetID": "QUNIT_FIORI_TESTS",
+			"attributeSet": "QUnit Fiori Tests - DO NOT TOUCH",
+			"attributeID": "SAP_0000001057",
+			"attribute": "qunit_currency_usd",
+			"attributeDatatype": "CURR",
+			"category": "",
+			"currency": "USD",
+			"decimalPlaces": "02",
+			"person": "X",
+			"organization": "X",
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingMarketingAttributeCollection(attributeSetID='QUNIT_FIORI_TESTS',attributeID='SAP_0000001057')",
+				"type": "CRM_BUPA_ODATA.CustomizingMarketingAttribute",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingMarketingAttributeCollection(attributeSetID='QUNIT_FIORI_TESTS',attributeID='SAP_0000001057')"
+			}
+		}, {
+			"attributeSetID": "QUNIT_FIORI_TESTS",
+			"attributeSet": "QUnit Fiori Tests - DO NOT TOUCH",
+			"attributeID": "SAP_0000001053",
+			"attribute": "qunit_date",
+			"attributeDatatype": "DATE",
+			"category": "",
+			"currency": "",
+			"decimalPlaces": "00",
+			"person": "X",
+			"organization": "X",
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingMarketingAttributeCollection(attributeSetID='QUNIT_FIORI_TESTS',attributeID='SAP_0000001053')",
+				"type": "CRM_BUPA_ODATA.CustomizingMarketingAttribute",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingMarketingAttributeCollection(attributeSetID='QUNIT_FIORI_TESTS',attributeID='SAP_0000001053')"
+			}
+		}, {
+			"attributeSetID": "QUNIT_FIORI_TESTS",
+			"attributeSet": "QUnit Fiori Tests - DO NOT TOUCH",
+			"attributeID": "SAP_0000000996",
+			"attribute": "qunit_numeric",
+			"attributeDatatype": "NUM",
+			"category": "",
+			"currency": "",
+			"decimalPlaces": "00",
+			"person": "X",
+			"organization": "X",
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingMarketingAttributeCollection(attributeSetID='QUNIT_FIORI_TESTS',attributeID='SAP_0000000996')",
+				"type": "CRM_BUPA_ODATA.CustomizingMarketingAttribute",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingMarketingAttributeCollection(attributeSetID='QUNIT_FIORI_TESTS',attributeID='SAP_0000000996')"
+			}
+		}, {
+			"attributeSetID": "QUNIT_FIORI_TESTS",
+			"attributeSet": "QUnit Fiori Tests - DO NOT TOUCH",
+			"attributeID": "SAP_0000001008",
+			"attribute": "qunit_numeric_%",
+			"attributeDatatype": "NUM",
+			"category": "",
+			"currency": "",
+			"decimalPlaces": "00",
+			"person": "X",
+			"organization": "X",
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingMarketingAttributeCollection(attributeSetID='QUNIT_FIORI_TESTS',attributeID='SAP_0000001008')",
+				"type": "CRM_BUPA_ODATA.CustomizingMarketingAttribute",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingMarketingAttributeCollection(attributeSetID='QUNIT_FIORI_TESTS',attributeID='SAP_0000001008')"
+			}
+		}, {
+			"attributeSetID": "QUNIT_FIORI_TESTS",
+			"attributeSet": "QUnit Fiori Tests - DO NOT TOUCH",
+			"attributeID": "SAP_0000000998",
+			"attribute": "qunit_numeric_ddlb",
+			"attributeDatatype": "NUM",
+			"category": "",
+			"currency": "",
+			"decimalPlaces": "00",
+			"person": "X",
+			"organization": "X",
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingMarketingAttributeCollection(attributeSetID='QUNIT_FIORI_TESTS',attributeID='SAP_0000000998')",
+				"type": "CRM_BUPA_ODATA.CustomizingMarketingAttribute",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingMarketingAttributeCollection(attributeSetID='QUNIT_FIORI_TESTS',attributeID='SAP_0000000998')"
+			}
+		}, {
+			"attributeSetID": "QUNIT_FIORI_TESTS",
+			"attributeSet": "QUnit Fiori Tests - DO NOT TOUCH",
+			"attributeID": "SAP_0000001082",
+			"attribute": "qunit_numeric_kg",
+			"attributeDatatype": "NUM",
+			"category": "",
+			"currency": "",
+			"decimalPlaces": "00",
+			"person": "X",
+			"organization": "X",
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingMarketingAttributeCollection(attributeSetID='QUNIT_FIORI_TESTS',attributeID='SAP_0000001082')",
+				"type": "CRM_BUPA_ODATA.CustomizingMarketingAttribute",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingMarketingAttributeCollection(attributeSetID='QUNIT_FIORI_TESTS',attributeID='SAP_0000001082')"
+			}
+		}, {
+			"attributeSetID": "QUNIT_FIORI_TESTS",
+			"attributeSet": "QUnit Fiori Tests - DO NOT TOUCH",
+			"attributeID": "SAP_0000000997",
+			"attribute": "qunit_numeric_negative",
+			"attributeDatatype": "NUM",
+			"category": "",
+			"currency": "",
+			"decimalPlaces": "00",
+			"person": "X",
+			"organization": "X",
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingMarketingAttributeCollection(attributeSetID='QUNIT_FIORI_TESTS',attributeID='SAP_0000000997')",
+				"type": "CRM_BUPA_ODATA.CustomizingMarketingAttribute",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingMarketingAttributeCollection(attributeSetID='QUNIT_FIORI_TESTS',attributeID='SAP_0000000997')"
+			}
+		}, {
+			"attributeSetID": "QUNIT_FIORI_TESTS",
+			"attributeSet": "QUnit Fiori Tests - DO NOT TOUCH",
+			"attributeID": "SAP_0000001000",
+			"attribute": "qunit_numeric_with_multi_values",
+			"attributeDatatype": "NUM",
+			"category": "",
+			"currency": "",
+			"decimalPlaces": "00",
+			"person": "X",
+			"organization": "X",
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingMarketingAttributeCollection(attributeSetID='QUNIT_FIORI_TESTS',attributeID='SAP_0000001000')",
+				"type": "CRM_BUPA_ODATA.CustomizingMarketingAttribute",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingMarketingAttributeCollection(attributeSetID='QUNIT_FIORI_TESTS',attributeID='SAP_0000001000')"
+			}
+		}, {
+			"attributeSetID": "QUNIT_FIORI_TESTS",
+			"attributeSet": "QUnit Fiori Tests - DO NOT TOUCH",
+			"attributeID": "SAP_0000001071",
+			"attribute": "qunit_numeric123",
+			"attributeDatatype": "NUM",
+			"category": "",
+			"currency": "",
+			"decimalPlaces": "00",
+			"person": "X",
+			"organization": "X",
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingMarketingAttributeCollection(attributeSetID='QUNIT_FIORI_TESTS',attributeID='SAP_0000001071')",
+				"type": "CRM_BUPA_ODATA.CustomizingMarketingAttribute",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingMarketingAttributeCollection(attributeSetID='QUNIT_FIORI_TESTS',attributeID='SAP_0000001071')"
+			}
+		}, {
+			"attributeSetID": "QUNIT_FIORI_TESTS",
+			"attributeSet": "QUnit Fiori Tests - DO NOT TOUCH",
+			"attributeID": "SAP_0000001059",
+			"attribute": "qunit_time",
+			"attributeDatatype": "TIME",
+			"category": "",
+			"currency": "",
+			"decimalPlaces": "00",
+			"person": "X",
+			"organization": "X",
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingMarketingAttributeCollection(attributeSetID='QUNIT_FIORI_TESTS',attributeID='SAP_0000001059')",
+				"type": "CRM_BUPA_ODATA.CustomizingMarketingAttribute",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingMarketingAttributeCollection(attributeSetID='QUNIT_FIORI_TESTS',attributeID='SAP_0000001059')"
+			}
+		}, {
+			"attributeSetID": "QUNIT_FIORI_TESTS",
+			"attributeSet": "QUnit Fiori Tests - DO NOT TOUCH",
+			"attributeID": "SAP_0000001073",
+			"attribute": "qunitnumeric",
+			"attributeDatatype": "NUM",
+			"category": "",
+			"currency": "",
+			"decimalPlaces": "00",
+			"person": "X",
+			"organization": "X",
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingMarketingAttributeCollection(attributeSetID='QUNIT_FIORI_TESTS',attributeID='SAP_0000001073')",
+				"type": "CRM_BUPA_ODATA.CustomizingMarketingAttribute",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingMarketingAttributeCollection(attributeSetID='QUNIT_FIORI_TESTS',attributeID='SAP_0000001073')"
+			}
+		}]
+	}
+}

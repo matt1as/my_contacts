@@ -1,0 +1,9 @@
+<core:FragmentDefinition xmlns:core="sap.ui.core" xmlns:form="sap.ui.layout.form" xmlns="sap.m" xmlns:layout="sap.ui.layout"
+	xmlns:html="http://www.w3.org/1999/xhtml">
+	<!-- This extension point can be used to add fields to form:content -->
+	<!--<Text xmlns="sap.m" id="birthDateInput_clone" text="{path: 'birthDate', type: 'sap.ca.ui.model.type.Date', formatOptions: {style:'medium'}}"/> -->
+	<Label text="Roll nivå 1" id="zRoleLvl1Label" width="100%"/>
+	<Text text="{zRoleLvl1Txt}" id="zRoleLvl1Txt"/>
+	<Label text="Roll nivå 2" id="zRoleLvl2Label" width="100%"/>
+	<Text text="{zRoleLvl2Txt}" id="zRoleLvl2Txt"/>
+</core:FragmentDefinition>

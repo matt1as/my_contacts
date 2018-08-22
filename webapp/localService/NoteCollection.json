@@ -1,0 +1,17 @@
+{
+	"d": {
+		"results": [{
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/NoteCollection(tdname='0000425021%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%2020150112145443224',tdid='0001',tdspras='EN')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/NoteCollection(tdname='0000425021%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%2020150112145443224',tdid='0001',tdspras='EN')",
+				"type": "CRM_BUPA_ODATA.Note"
+			},
+			"tdname": "0000425021                                           20150112145443224",
+			"tdid": "0001",
+			"tdspras": "EN",
+			"content": "arbeitet halbtags",
+			"createdAt": "\/Date(1421074483000)\/",
+			"creator": "Prof. Dr. John Doe"
+		}]
+	}
+}

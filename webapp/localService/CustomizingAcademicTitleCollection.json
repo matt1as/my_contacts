@@ -1,0 +1,93 @@
+{
+	"d": {
+		"results": [{
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingAcademicTitleCollection('0001')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingAcademicTitleCollection('0001')",
+				"type": "CRM_BUPA_ODATA.CustomizingAcademicTitle"
+			},
+			"title": "0001",
+			"titleDescription": "Dr"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingAcademicTitleCollection('0002')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingAcademicTitleCollection('0002')",
+				"type": "CRM_BUPA_ODATA.CustomizingAcademicTitle"
+			},
+			"title": "0002",
+			"titleDescription": "Professor"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingAcademicTitleCollection('0003')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingAcademicTitleCollection('0003')",
+				"type": "CRM_BUPA_ODATA.CustomizingAcademicTitle"
+			},
+			"title": "0003",
+			"titleDescription": "Professor Dr"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingAcademicTitleCollection('0004')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingAcademicTitleCollection('0004')",
+				"type": "CRM_BUPA_ODATA.CustomizingAcademicTitle"
+			},
+			"title": "0004",
+			"titleDescription": "Bachelor of Arts"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingAcademicTitleCollection('0005')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingAcademicTitleCollection('0005')",
+				"type": "CRM_BUPA_ODATA.CustomizingAcademicTitle"
+			},
+			"title": "0005",
+			"titleDescription": "Master of Business Administration"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingAcademicTitleCollection('0006')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingAcademicTitleCollection('0006')",
+				"type": "CRM_BUPA_ODATA.CustomizingAcademicTitle"
+			},
+			"title": "0006",
+			"titleDescription": "Doctor of Philosophy"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingAcademicTitleCollection('1')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingAcademicTitleCollection('1')",
+				"type": "CRM_BUPA_ODATA.CustomizingAcademicTitle"
+			},
+			"title": "1",
+			"titleDescription": "Mr."
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingAcademicTitleCollection('2')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingAcademicTitleCollection('2')",
+				"type": "CRM_BUPA_ODATA.CustomizingAcademicTitle"
+			},
+			"title": "2",
+			"titleDescription": "Mrs."
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingAcademicTitleCollection('3')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingAcademicTitleCollection('3')",
+				"type": "CRM_BUPA_ODATA.CustomizingAcademicTitle"
+			},
+			"title": "3",
+			"titleDescription": "Miss"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingAcademicTitleCollection('4')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingAcademicTitleCollection('4')",
+				"type": "CRM_BUPA_ODATA.CustomizingAcademicTitle"
+			},
+			"title": "4",
+			"titleDescription": "Ms."
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingAcademicTitleCollection('5')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingAcademicTitleCollection('5')",
+				"type": "CRM_BUPA_ODATA.CustomizingAcademicTitle"
+			},
+			"title": "5",
+			"titleDescription": "Dr."
+		}]
+	}
+}

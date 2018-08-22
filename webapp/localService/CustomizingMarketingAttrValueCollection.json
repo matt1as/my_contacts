@@ -1,0 +1,161 @@
+{
+	"d": {
+		"results": [{
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingMarketingAttrValueCollection(attributeSetID='QUNIT_FIORI_TESTS',attributeID='SAP_0000001066',valueID='01')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingMarketingAttrValueCollection(attributeSetID='QUNIT_FIORI_TESTS',attributeID='SAP_0000001066',valueID='01')",
+				"type": "CRM_BUPA_ODATA.CustomizingMarketingAttrValue"
+			},
+			"attributeSetID": "QUNIT_FIORI_TESTS",
+			"attributeID": "SAP_0000001066",
+			"valueID": "01",
+			"value": "Material",
+			"isDefault": "",
+			"currency": "",
+			"decimalPlaces": "00"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingMarketingAttrValueCollection(attributeSetID='QUNIT_FIORI_TESTS',attributeID='SAP_0000001066',valueID='02')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingMarketingAttrValueCollection(attributeSetID='QUNIT_FIORI_TESTS',attributeID='SAP_0000001066',valueID='02')",
+				"type": "CRM_BUPA_ODATA.CustomizingMarketingAttrValue"
+			},
+			"attributeSetID": "QUNIT_FIORI_TESTS",
+			"attributeID": "SAP_0000001066",
+			"valueID": "02",
+			"value": "Service",
+			"isDefault": "",
+			"currency": "",
+			"decimalPlaces": "00"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingMarketingAttrValueCollection(attributeSetID='QUNIT_FIORI_TESTS',attributeID='SAP_0000001066',valueID='03')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingMarketingAttrValueCollection(attributeSetID='QUNIT_FIORI_TESTS',attributeID='SAP_0000001066',valueID='03')",
+				"type": "CRM_BUPA_ODATA.CustomizingMarketingAttrValue"
+			},
+			"attributeSetID": "QUNIT_FIORI_TESTS",
+			"attributeID": "SAP_0000001066",
+			"valueID": "03",
+			"value": "Financing",
+			"isDefault": "",
+			"currency": "",
+			"decimalPlaces": "00"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingMarketingAttrValueCollection(attributeSetID='QUNIT_FIORI_TESTS',attributeID='SAP_0000001066',valueID='04')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingMarketingAttrValueCollection(attributeSetID='QUNIT_FIORI_TESTS',attributeID='SAP_0000001066',valueID='04')",
+				"type": "CRM_BUPA_ODATA.CustomizingMarketingAttrValue"
+			},
+			"attributeSetID": "QUNIT_FIORI_TESTS",
+			"attributeID": "SAP_0000001066",
+			"valueID": "04",
+			"value": "IP",
+			"isDefault": "",
+			"currency": "",
+			"decimalPlaces": "00"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingMarketingAttrValueCollection(attributeSetID='QUNIT_FIORI_TESTS',attributeID='SAP_0000001066',valueID='05')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingMarketingAttrValueCollection(attributeSetID='QUNIT_FIORI_TESTS',attributeID='SAP_0000001066',valueID='05')",
+				"type": "CRM_BUPA_ODATA.CustomizingMarketingAttrValue"
+			},
+			"attributeSetID": "QUNIT_FIORI_TESTS",
+			"attributeID": "SAP_0000001066",
+			"valueID": "05",
+			"value": "Warranty",
+			"isDefault": "",
+			"currency": "",
+			"decimalPlaces": "00"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingMarketingAttrValueCollection(attributeSetID='QUNIT_FIORI_TESTS',attributeID='SAP_0000001066',valueID='07')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingMarketingAttrValueCollection(attributeSetID='QUNIT_FIORI_TESTS',attributeID='SAP_0000001066',valueID='07')",
+				"type": "CRM_BUPA_ODATA.CustomizingMarketingAttrValue"
+			},
+			"attributeSetID": "QUNIT_FIORI_TESTS",
+			"attributeID": "SAP_0000001066",
+			"valueID": "07",
+			"value": "Financial Service",
+			"isDefault": "",
+			"currency": "",
+			"decimalPlaces": "00"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingMarketingAttrValueCollection(attributeSetID='QUNIT_FIORI_TESTS',attributeID='SAP_0000000998',valueID='10')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingMarketingAttrValueCollection(attributeSetID='QUNIT_FIORI_TESTS',attributeID='SAP_0000000998',valueID='10')",
+				"type": "CRM_BUPA_ODATA.CustomizingMarketingAttrValue"
+			},
+			"attributeSetID": "QUNIT_FIORI_TESTS",
+			"attributeID": "SAP_0000000998",
+			"valueID": "10",
+			"value": "10",
+			"isDefault": "",
+			"currency": "",
+			"decimalPlaces": "00"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingMarketingAttrValueCollection(attributeSetID='QUNIT_FIORI_TESTS',attributeID='SAP_0000000998',valueID='20')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingMarketingAttrValueCollection(attributeSetID='QUNIT_FIORI_TESTS',attributeID='SAP_0000000998',valueID='20')",
+				"type": "CRM_BUPA_ODATA.CustomizingMarketingAttrValue"
+			},
+			"attributeSetID": "QUNIT_FIORI_TESTS",
+			"attributeID": "SAP_0000000998",
+			"valueID": "20",
+			"value": "20",
+			"isDefault": "",
+			"currency": "",
+			"decimalPlaces": "00"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingMarketingAttrValueCollection(attributeSetID='QUNIT_FIORI_TESTS',attributeID='SAP_0000000998',valueID='30')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingMarketingAttrValueCollection(attributeSetID='QUNIT_FIORI_TESTS',attributeID='SAP_0000000998',valueID='30')",
+				"type": "CRM_BUPA_ODATA.CustomizingMarketingAttrValue"
+			},
+			"attributeSetID": "QUNIT_FIORI_TESTS",
+			"attributeID": "SAP_0000000998",
+			"valueID": "30",
+			"value": "30",
+			"isDefault": "",
+			"currency": "",
+			"decimalPlaces": "00"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingMarketingAttrValueCollection(attributeSetID='QUNIT_FIORI_TESTS',attributeID='SAP_0000001049',valueID='BASKETBALL')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingMarketingAttrValueCollection(attributeSetID='QUNIT_FIORI_TESTS',attributeID='SAP_0000001049',valueID='BASKETBALL')",
+				"type": "CRM_BUPA_ODATA.CustomizingMarketingAttrValue"
+			},
+			"attributeSetID": "QUNIT_FIORI_TESTS",
+			"attributeID": "SAP_0000001049",
+			"valueID": "BASKETBALL",
+			"value": "Basketball",
+			"isDefault": "",
+			"currency": "",
+			"decimalPlaces": "00"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingMarketingAttrValueCollection(attributeSetID='QUNIT_FIORI_TESTS',attributeID='SAP_0000001049',valueID='FOOTBALL')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingMarketingAttrValueCollection(attributeSetID='QUNIT_FIORI_TESTS',attributeID='SAP_0000001049',valueID='FOOTBALL')",
+				"type": "CRM_BUPA_ODATA.CustomizingMarketingAttrValue"
+			},
+			"attributeSetID": "QUNIT_FIORI_TESTS",
+			"attributeID": "SAP_0000001049",
+			"valueID": "FOOTBALL",
+			"value": "Football",
+			"isDefault": "",
+			"currency": "",
+			"decimalPlaces": "00"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingMarketingAttrValueCollection(attributeSetID='QUNIT_FIORI_TESTS',attributeID='SAP_0000001049',valueID='SOCCER')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingMarketingAttrValueCollection(attributeSetID='QUNIT_FIORI_TESTS',attributeID='SAP_0000001049',valueID='SOCCER')",
+				"type": "CRM_BUPA_ODATA.CustomizingMarketingAttrValue"
+			},
+			"attributeSetID": "QUNIT_FIORI_TESTS",
+			"attributeID": "SAP_0000001049",
+			"valueID": "SOCCER",
+			"value": "Soccer",
+			"isDefault": "",
+			"currency": "",
+			"decimalPlaces": "00"
+		}]
+	}
+}

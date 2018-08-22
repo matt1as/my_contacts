@@ -1,0 +1,2061 @@
+{
+	"d": {
+		"results": [{
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('AF')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('AF')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "AF",
+			"country": "Afghanistan"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('AL')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('AL')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "AL",
+			"country": "Albania"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('DZ')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('DZ')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "DZ",
+			"country": "Algeria"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('AD')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('AD')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "AD",
+			"country": "Andorra"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('AO')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('AO')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "AO",
+			"country": "Angola"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('AI')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('AI')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "AI",
+			"country": "Anguilla"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('AQ')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('AQ')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "AQ",
+			"country": "Antarctica"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('AG')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('AG')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "AG",
+			"country": "Antigua/Barbuda"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('AR')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('AR')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "AR",
+			"country": "Argentina"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('AM')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('AM')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "AM",
+			"country": "Armenia"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('AW')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('AW')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "AW",
+			"country": "Aruba"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('AUS')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('AUS')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "AUS",
+			"country": "Australia"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('AU')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('AU')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "AU",
+			"country": "Australia"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('AT')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('AT')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "AT",
+			"country": "Austria"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('A')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('A')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "A",
+			"country": "Austria"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('AZ')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('AZ')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "AZ",
+			"country": "Azerbaijan"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('BS')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('BS')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "BS",
+			"country": "Bahamas"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('BH')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('BH')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "BH",
+			"country": "Bahrain"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('BD')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('BD')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "BD",
+			"country": "Bangladesh"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('BB')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('BB')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "BB",
+			"country": "Barbados"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('BY')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('BY')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "BY",
+			"country": "Belarus"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('B')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('B')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "B",
+			"country": "Belgium"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('BE')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('BE')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "BE",
+			"country": "Belgium"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('BZ')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('BZ')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "BZ",
+			"country": "Belize"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('BJ')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('BJ')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "BJ",
+			"country": "Benin"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('BM')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('BM')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "BM",
+			"country": "Bermuda"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('BT')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('BT')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "BT",
+			"country": "Bhutan"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('BO')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('BO')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "BO",
+			"country": "Bolivia"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('BQ')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('BQ')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "BQ",
+			"country": "Bonaire, Saba"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('BA')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('BA')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "BA",
+			"country": "Bosnia-Herz."
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('BW')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('BW')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "BW",
+			"country": "Botswana"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('BV')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('BV')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "BV",
+			"country": "Bouvet Islands"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('BR')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('BR')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "BR",
+			"country": "Brazil"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('IO')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('IO')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "IO",
+			"country": "Brit.Ind.Oc.Ter"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('VG')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('VG')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "VG",
+			"country": "Brit.Virgin Is."
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('BN')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('BN')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "BN",
+			"country": "Brunei Daruss."
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('BG')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('BG')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "BG",
+			"country": "Bulgaria"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('BF')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('BF')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "BF",
+			"country": "Burkina Faso"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('BU')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('BU')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "BU",
+			"country": "Burma"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('MM')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('MM')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "MM",
+			"country": "Burma"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('BI')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('BI')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "BI",
+			"country": "Burundi"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('CF')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('CF')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "CF",
+			"country": "CAR"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('KH')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('KH')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "KH",
+			"country": "Cambodia"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('CM')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('CM')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "CM",
+			"country": "Cameroon"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('CA')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('CA')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "CA",
+			"country": "Canada"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('CAN')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('CAN')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "CAN",
+			"country": "Canada"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('CV')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('CV')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "CV",
+			"country": "Cape Verde"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('KY')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('KY')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "KY",
+			"country": "Cayman Islands"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('TD')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('TD')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "TD",
+			"country": "Chad"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('CL')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('CL')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "CL",
+			"country": "Chile"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('CN')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('CN')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "CN",
+			"country": "China"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('CX')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('CX')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "CX",
+			"country": "Christmas Islnd"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('CO')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('CO')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "CO",
+			"country": "Colombia"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('KM')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('KM')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "KM",
+			"country": "Comoros"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('CK')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('CK')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "CK",
+			"country": "Cook Islands"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('CR')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('CR')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "CR",
+			"country": "Costa Rica"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('CI')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('CI')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "CI",
+			"country": "Cote d'Ivoire"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('HR')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('HR')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "HR",
+			"country": "Croatia"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('CU')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('CU')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "CU",
+			"country": "Cuba"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('CW')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('CW')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "CW",
+			"country": "Curacao"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('CY')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('CY')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "CY",
+			"country": "Cyprus"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('CZ')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('CZ')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "CZ",
+			"country": "Czech Republic"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('CD')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('CD')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "CD",
+			"country": "Dem. Rep. Congo"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('DK')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('DK')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "DK",
+			"country": "Denmark"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('DJ')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('DJ')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "DJ",
+			"country": "Djibouti"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('DM')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('DM')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "DM",
+			"country": "Dominica"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('DO')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('DO')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "DO",
+			"country": "Dominican Rep."
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('AN')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('AN')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "AN",
+			"country": "Dutch Antilles"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('TL')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('TL')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "TL",
+			"country": "East Timor"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('TP')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('TP')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "TP",
+			"country": "East Timor"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('EC')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('EC')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "EC",
+			"country": "Ecuador"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('EG')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('EG')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "EG",
+			"country": "Egypt"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('SV')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('SV')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "SV",
+			"country": "El Salvador"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('GQ')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('GQ')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "GQ",
+			"country": "Equatorial Guin"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('ER')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('ER')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "ER",
+			"country": "Eritrea"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('EE')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('EE')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "EE",
+			"country": "Estonia"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('EF')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('EF')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "EF",
+			"country": "Estonia"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('ET')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('ET')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "ET",
+			"country": "Ethiopia"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('FK')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('FK')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "FK",
+			"country": "Falkland Islnds"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('FO')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('FO')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "FO",
+			"country": "Faroe Islands"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('FJ')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('FJ')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "FJ",
+			"country": "Fiji"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('FI')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('FI')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "FI",
+			"country": "Finland"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('FR')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('FR')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "FR",
+			"country": "France"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('PF')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('PF')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "PF",
+			"country": "Frenc.Polynesia"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('GF')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('GF')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "GF",
+			"country": "French Guayana"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('TF')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('TF')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "TF",
+			"country": "French S.Territ"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('GA')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('GA')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "GA",
+			"country": "Gabon"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('GM')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('GM')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "GM",
+			"country": "Gambia"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('GE')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('GE')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "GE",
+			"country": "Georgia"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('DE')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('DE')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "DE",
+			"country": "Germany"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('GH')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('GH')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "GH",
+			"country": "Ghana"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('GI')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('GI')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "GI",
+			"country": "Gibraltar"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('GR')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('GR')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "GR",
+			"country": "Greece"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('GL')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('GL')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "GL",
+			"country": "Greenland"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('GD')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('GD')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "GD",
+			"country": "Grenada"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('GP')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('GP')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "GP",
+			"country": "Guadeloupe"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('GU')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('GU')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "GU",
+			"country": "Guam"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('GT')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('GT')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "GT",
+			"country": "Guatemala"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('GG')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('GG')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "GG",
+			"country": "Guernsey"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('GN')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('GN')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "GN",
+			"country": "Guinea"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('GW')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('GW')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "GW",
+			"country": "Guinea-Bissau"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('GY')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('GY')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "GY",
+			"country": "Guyana"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('HT')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('HT')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "HT",
+			"country": "Haiti"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('HM')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('HM')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "HM",
+			"country": "Heard/McDon.Isl"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('HN')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('HN')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "HN",
+			"country": "Honduras"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('HK')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('HK')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "HK",
+			"country": "Hong Kong"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('HU')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('HU')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "HU",
+			"country": "Hungary"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('IS')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('IS')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "IS",
+			"country": "Iceland"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('IN')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('IN')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "IN",
+			"country": "India"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('ID')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('ID')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "ID",
+			"country": "Indonesia"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('IR')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('IR')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "IR",
+			"country": "Iran"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('IQ')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('IQ')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "IQ",
+			"country": "Iraq"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('IE')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('IE')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "IE",
+			"country": "Ireland"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('IM')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('IM')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "IM",
+			"country": "Isle of Man"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('IL')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('IL')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "IL",
+			"country": "Israel"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('IT')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('IT')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "IT",
+			"country": "Italy"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('JM')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('JM')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "JM",
+			"country": "Jamaica"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('JP')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('JP')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "JP",
+			"country": "Japan"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('JE')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('JE')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "JE",
+			"country": "Jersey"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('JO')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('JO')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "JO",
+			"country": "Jordan"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('KZ')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('KZ')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "KZ",
+			"country": "Kazakhstan"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('CC')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('CC')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "CC",
+			"country": "Keeling Islands"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('KE')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('KE')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "KE",
+			"country": "Kenya"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('KI')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('KI')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "KI",
+			"country": "Kiribati"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('KW')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('KW')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "KW",
+			"country": "Kuwait"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('KG')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('KG')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "KG",
+			"country": "Kyrgyzstan"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('LA')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('LA')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "LA",
+			"country": "Laos"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('LV')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('LV')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "LV",
+			"country": "Latvia"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('LB')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('LB')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "LB",
+			"country": "Lebanon"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('LS')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('LS')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "LS",
+			"country": "Lesotho"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('LR')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('LR')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "LR",
+			"country": "Liberia"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('LY')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('LY')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "LY",
+			"country": "Libya"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('LI')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('LI')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "LI",
+			"country": "Liechtenstein"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('LT')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('LT')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "LT",
+			"country": "Lithuania"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('LU')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('LU')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "LU",
+			"country": "Luxembourg"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('MO')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('MO')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "MO",
+			"country": "Macau"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('MK')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('MK')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "MK",
+			"country": "Macedonia"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('MG')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('MG')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "MG",
+			"country": "Madagascar"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('MW')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('MW')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "MW",
+			"country": "Malawi"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('MY')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('MY')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "MY",
+			"country": "Malaysia"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('MV')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('MV')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "MV",
+			"country": "Maldives"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('ML')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('ML')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "ML",
+			"country": "Mali"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('MT')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('MT')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "MT",
+			"country": "Malta"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('MH')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('MH')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "MH",
+			"country": "Marshall Islnds"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('MQ')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('MQ')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "MQ",
+			"country": "Martinique"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('MR')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('MR')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "MR",
+			"country": "Mauritania"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('MU')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('MU')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "MU",
+			"country": "Mauritius"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('YT')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('YT')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "YT",
+			"country": "Mayotte"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('XM')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('XM')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "XM",
+			"country": "Mayotte"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('MX')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('MX')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "MX",
+			"country": "Mexico"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('FM')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('FM')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "FM",
+			"country": "Micronesia"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('UM')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('UM')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "UM",
+			"country": "Minor Outl.Isl."
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('MD')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('MD')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "MD",
+			"country": "Moldova"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('MC')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('MC')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "MC",
+			"country": "Monaco"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('MN')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('MN')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "MN",
+			"country": "Mongolia"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('MS')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('MS')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "MS",
+			"country": "Montserrat"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('MA')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('MA')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "MA",
+			"country": "Morocco"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('MZ')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('MZ')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "MZ",
+			"country": "Mozambique"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('MP')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('MP')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "MP",
+			"country": "N.Mariana Islnd"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('NA')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('NA')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "NA",
+			"country": "Namibia"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('NR')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('NR')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "NR",
+			"country": "Nauru"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('NP')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('NP')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "NP",
+			"country": "Nepal"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('NL')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('NL')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "NL",
+			"country": "Netherlands"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('NC')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('NC')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "NC",
+			"country": "New Caledonia"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('NZ')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('NZ')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "NZ",
+			"country": "New Zealand"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('NI')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('NI')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "NI",
+			"country": "Nicaragua"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('NE')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('NE')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "NE",
+			"country": "Niger"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('NG')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('NG')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "NG",
+			"country": "Nigeria"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('NU')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('NU')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "NU",
+			"country": "Niue"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('NF')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('NF')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "NF",
+			"country": "Norfolk Islands"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('KP')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('KP')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "KP",
+			"country": "North Korea"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('NO')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('NO')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "NO",
+			"country": "Norway"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('OM')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('OM')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "OM",
+			"country": "Oman"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('PK')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('PK')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "PK",
+			"country": "Pakistan"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('PW')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('PW')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "PW",
+			"country": "Palau"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('PS')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('PS')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "PS",
+			"country": "Palestine"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('PA')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('PA')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "PA",
+			"country": "Panama"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('PG')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('PG')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "PG",
+			"country": "Pap. New Guinea"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('PY')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('PY')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "PY",
+			"country": "Paraguay"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('PE')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('PE')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "PE",
+			"country": "Peru"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('PH')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('PH')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "PH",
+			"country": "Philippines"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('PN')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('PN')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "PN",
+			"country": "Pitcairn Islnds"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('PL')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('PL')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "PL",
+			"country": "Poland"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('PT')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('PT')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "PT",
+			"country": "Portugal"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('PR')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('PR')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "PR",
+			"country": "Puerto Rico"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('QA')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('QA')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "QA",
+			"country": "Qatar"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('CG')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('CG')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "CG",
+			"country": "Rep.of Congo"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('RE')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('RE')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "RE",
+			"country": "Reunion"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('RO')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('RO')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "RO",
+			"country": "Romania"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('RU')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('RU')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "RU",
+			"country": "Russian Fed."
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('RW')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('RW')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "RW",
+			"country": "Rwanda"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('GS')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('GS')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "GS",
+			"country": "S. Sandwich Ins"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('ST')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('ST')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "ST",
+			"country": "S.Tome,Principe"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('SH')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('SH')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "SH",
+			"country": "Saint Helena"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('WS')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('WS')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "WS",
+			"country": "Samoa"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('AS')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('AS')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "AS",
+			"country": "Samoa, America"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('SM')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('SM')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "SM",
+			"country": "San Marino"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('SA')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('SA')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "SA",
+			"country": "Saudi Arabia"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('SN')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('SN')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "SN",
+			"country": "Senegal"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('CS')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('CS')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "CS",
+			"country": "Serbia/Monten."
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('SC')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('SC')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "SC",
+			"country": "Seychelles"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('SL')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('SL')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "SL",
+			"country": "Sierra Leone"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('SG')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('SG')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "SG",
+			"country": "Singapore"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('SX')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('SX')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "SX",
+			"country": "Sint Maarten"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('SK')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('SK')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "SK",
+			"country": "Slovakia"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('SI')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('SI')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "SI",
+			"country": "Slovenia"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('SB')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('SB')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "SB",
+			"country": "Solomon Islands"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('SO')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('SO')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "SO",
+			"country": "Somalia"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('ZA')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('ZA')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "ZA",
+			"country": "South Africa"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('KR')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('KR')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "KR",
+			"country": "South Korea"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('SS')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('SS')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "SS",
+			"country": "South Sudan"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('YD')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('YD')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "YD",
+			"country": "South Yemen"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('ES')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('ES')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "ES",
+			"country": "Spain"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('LK')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('LK')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "LK",
+			"country": "Sri Lanka"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('KN')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('KN')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "KN",
+			"country": "St Kitts&Nevis"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('LC')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('LC')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "LC",
+			"country": "St. Lucia"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('VC')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('VC')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "VC",
+			"country": "St. Vincent"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('PM')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('PM')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "PM",
+			"country": "St.Pier,Miquel."
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('SD')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('SD')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "SD",
+			"country": "Sudan"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('SR')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('SR')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "SR",
+			"country": "Suriname"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('SJ')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('SJ')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "SJ",
+			"country": "Svalbard"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('SZ')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('SZ')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "SZ",
+			"country": "Swaziland"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('SE')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('SE')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "SE",
+			"country": "Sweden"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('CH')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('CH')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "CH",
+			"country": "Switzerland"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('SY')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('SY')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "SY",
+			"country": "Syria"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('TW')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('TW')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "TW",
+			"country": "Taiwan"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('TJ')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('TJ')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "TJ",
+			"country": "Tajikistan"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('TZ')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('TZ')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "TZ",
+			"country": "Tanzania"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('TH')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('TH')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "TH",
+			"country": "Thailand"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('TG')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('TG')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "TG",
+			"country": "Togo"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('TK')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('TK')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "TK",
+			"country": "Tokelau"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('TO')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('TO')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "TO",
+			"country": "Tonga"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('TT')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('TT')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "TT",
+			"country": "Trinidad,Tobago"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('TN')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('TN')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "TN",
+			"country": "Tunisia"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('TR')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('TR')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "TR",
+			"country": "Turkey"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('TM')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('TM')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "TM",
+			"country": "Turkmenistan"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('TC')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('TC')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "TC",
+			"country": "Turksh Caicosin"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('TV')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('TV')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "TV",
+			"country": "Tuvalu"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('VI')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('VI')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "VI",
+			"country": "US Virgin Isl."
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('US')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('US')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "US",
+			"country": "USA"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('UG')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('UG')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "UG",
+			"country": "Uganda"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('UA')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('UA')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "UA",
+			"country": "Ukraine"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('GB')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('GB')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "GB",
+			"country": "United Kingdom"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('UY')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('UY')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "UY",
+			"country": "Uruguay"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('AE')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('AE')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "AE",
+			"country": "Utd.Arab Emir."
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('UZ')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('UZ')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "UZ",
+			"country": "Uzbekistan"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('VU')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('VU')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "VU",
+			"country": "Vanuatu"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('VA')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('VA')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "VA",
+			"country": "Vatican City"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('VE')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('VE')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "VE",
+			"country": "Venezuela"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('VN')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('VN')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "VN",
+			"country": "Vietnam"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('WF')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('WF')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "WF",
+			"country": "Wallis,Futuna"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('EH')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('EH')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "EH",
+			"country": "West Sahara"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('YE')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('YE')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "YE",
+			"country": "Yemen"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('YU')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('YU')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "YU",
+			"country": "Yugoslavia"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('ZR')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('ZR')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "ZR",
+			"country": "Zaire"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('ZM')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('ZM')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "ZM",
+			"country": "Zambia"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('ZW')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingCountryCollection('ZW')",
+				"type": "CRM_BUPA_ODATA.CustomizingCountry"
+			},
+			"countryID": "ZW",
+			"country": "Zimbabwe"
+		}]
+	}
+}

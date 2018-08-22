@@ -1,0 +1,280 @@
+{
+	"d": {
+		"results": [{
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/ContactCollection(contactID='425021',accountID='425017')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/ContactCollection(contactID='425021',accountID='425017')",
+				"type": "CRM_BUPA_ODATA.Contact",
+				"etag": "W/\"'AB5DBEAA320B626600002AA4A3FB4383A6F1E315'\""
+			},
+			"contactID": "425021",
+			"accountID": "425017",
+			"firstName": "Anna",
+			"lastName": "DO NOT CHANGE!",
+			"fullName": "Dr. Anna DO NOT CHANGE!",
+			"searchText": "ANNA DO NOT CHANGE! ANNA QUNIT-CORPORATEACCOUNT",
+			"birthDate": "\/Date(284774400000)\/",
+			"company": "QUNIT-CorporateAccount DO NOT CHANGE!",
+			"function": "Chief Process Officer",
+			"department": "Management",
+			"titleID": "0001",
+			"title": "Ms.",
+			"academicTitleID": "5",
+			"academicTitle": "Dr.",
+			"isMyContact": true,
+			"isMainContact": true,
+			"createdAt": "\/Date(1421076253000)\/",
+			"eTag": "AB5DBEAA320B626600002AA4A3FB4383A6F1E315",
+			"WorkAddress": {
+				"__deferred": {
+					"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/ContactCollection(contactID='425021',accountID='425017')/WorkAddress"
+				}
+			},
+			"MainAddress": {
+				"__deferred": {
+					"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/ContactCollection(contactID='425021',accountID='425017')/MainAddress"
+				}
+			},
+			"Photo": {
+				"__deferred": {
+					"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/ContactCollection(contactID='425021',accountID='425017')/Photo"
+				}
+			},
+			"Notes": {
+				"__deferred": {
+					"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/ContactCollection(contactID='425021',accountID='425017')/Notes"
+				}
+			},
+			"Attachments": {
+				"__deferred": {
+					"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/ContactCollection(contactID='425021',accountID='425017')/Attachments"
+				}
+			},
+			"Account": {
+				"__deferred": {
+					"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/ContactCollection(contactID='425021',accountID='425017')/Account"
+				}
+			}
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/ContactCollection(contactID='425725',accountID='301080')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/ContactCollection(contactID='425725',accountID='301080')",
+				"type": "CRM_BUPA_ODATA.Contact",
+				"etag": "W/\"'9DB1AB8FBE58A2C6F08F095DFB602863FF73DB4E'\""
+			},
+			"contactID": "425725",
+			"accountID": "301080",
+			"firstName": "Anna",
+			"lastName": "DO NOT CHANGE2!",
+			"fullName": "Prof. Anna DO NOT CHANGE2!",
+			"searchText": "ANNA DO NOT CHANGE2! ANNA SUNNY STORE INC.",
+			"birthDate": null,
+			"company": "Sunny Store Inc.",
+			"function": "",
+			"department": "",
+			"titleID": "0001",
+			"title": "Ms.",
+			"academicTitleID": "0002",
+			"academicTitle": "Professor",
+			"isMyContact": false,
+			"isMainContact": false,
+			"createdAt": "\/Date(1430937971000)\/",
+			"eTag": "9DB1AB8FBE58A2C6F08F095DFB602863FF73DB4E",
+			"WorkAddress": {
+				"__deferred": {
+					"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/ContactCollection(contactID='425725',accountID='301080')/WorkAddress"
+				}
+			},
+			"MainAddress": {
+				"__deferred": {
+					"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/ContactCollection(contactID='425725',accountID='301080')/MainAddress"
+				}
+			},
+			"Photo": {
+				"__deferred": {
+					"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/ContactCollection(contactID='425725',accountID='301080')/Photo"
+				}
+			},
+			"Notes": {
+				"__deferred": {
+					"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/ContactCollection(contactID='425725',accountID='301080')/Notes"
+				}
+			},
+			"Attachments": {
+				"__deferred": {
+					"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/ContactCollection(contactID='425725',accountID='301080')/Attachments"
+				}
+			},
+			"Account": {
+				"__deferred": {
+					"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/ContactCollection(contactID='425725',accountID='301080')/Account"
+				}
+			}
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/ContactCollection(contactID='425032',accountID='425017')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/ContactCollection(contactID='425032',accountID='425017')",
+				"type": "CRM_BUPA_ODATA.Contact",
+				"etag": "W/\"'C9D5C1FFF604B462085048A02B56FF99B463F5EA'\""
+			},
+			"contactID": "425032",
+			"accountID": "425017",
+			"firstName": "Lukas",
+			"lastName": "Schmidt",
+			"fullName": "MBA Lukas Schmidt",
+			"searchText": "LUKAS SCHMIDT LUKAS QUNIT-CORPORATEACCOUNT",
+			"birthDate": "\/Date(-626745600000)\/",
+			"company": "QUNIT-CorporateAccount DO NOT CHANGE!",
+			"function": "Director",
+			"department": "Foreign Office",
+			"titleID": "0002",
+			"title": "Mr.",
+			"academicTitleID": "0005",
+			"academicTitle": "Master of Business A",
+			"isMyContact": false,
+			"isMainContact": false,
+			"createdAt": "\/Date(1421323469000)\/",
+			"eTag": "C9D5C1FFF604B462085048A02B56FF99B463F5EA",
+			"WorkAddress": {
+				"__deferred": {
+					"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/ContactCollection(contactID='425032',accountID='425017')/WorkAddress"
+				}
+			},
+			"MainAddress": {
+				"__deferred": {
+					"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/ContactCollection(contactID='425032',accountID='425017')/MainAddress"
+				}
+			},
+			"Photo": {
+				"__deferred": {
+					"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/ContactCollection(contactID='425032',accountID='425017')/Photo"
+				}
+			},
+			"Notes": {
+				"__deferred": {
+					"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/ContactCollection(contactID='425032',accountID='425017')/Notes"
+				}
+			},
+			"Attachments": {
+				"__deferred": {
+					"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/ContactCollection(contactID='425032',accountID='425017')/Attachments"
+				}
+			},
+			"Account": {
+				"__deferred": {
+					"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/ContactCollection(contactID='425032',accountID='425017')/Account"
+				}
+			}
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/ContactCollection(contactID='425022',accountID='425017')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/ContactCollection(contactID='425022',accountID='425017')",
+				"type": "CRM_BUPA_ODATA.Contact",
+				"etag": "W/\"'BD432414EE472F78D94CD0700553B6427FAF8E66'\""
+			},
+			"contactID": "425022",
+			"accountID": "425017",
+			"firstName": "Martina",
+			"lastName": "Bauer",
+			"fullName": "Dr. Martina Bauer",
+			"searchText": "MARTINA BAUER MARTINA QUNIT-CORPORATEACCOUNT",
+			"birthDate": "\/Date(711676800000)\/",
+			"company": "QUNIT-CorporateAccount DO NOT CHANGE!",
+			"function": "Secretary",
+			"department": "Foreign Office",
+			"titleID": "0001",
+			"title": "Ms.",
+			"academicTitleID": "0001",
+			"academicTitle": "Dr",
+			"isMyContact": false,
+			"isMainContact": false,
+			"createdAt": "\/Date(1421323154000)\/",
+			"eTag": "BD432414EE472F78D94CD0700553B6427FAF8E66",
+			"WorkAddress": {
+				"__deferred": {
+					"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/ContactCollection(contactID='425022',accountID='425017')/WorkAddress"
+				}
+			},
+			"MainAddress": {
+				"__deferred": {
+					"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/ContactCollection(contactID='425022',accountID='425017')/MainAddress"
+				}
+			},
+			"Photo": {
+				"__deferred": {
+					"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/ContactCollection(contactID='425022',accountID='425017')/Photo"
+				}
+			},
+			"Notes": {
+				"__deferred": {
+					"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/ContactCollection(contactID='425022',accountID='425017')/Notes"
+				}
+			},
+			"Attachments": {
+				"__deferred": {
+					"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/ContactCollection(contactID='425022',accountID='425017')/Attachments"
+				}
+			},
+			"Account": {
+				"__deferred": {
+					"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/ContactCollection(contactID='425022',accountID='425017')/Account"
+				}
+			}
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/ContactCollection(contactID='425018',accountID='425017')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/ContactCollection(contactID='425018',accountID='425017')",
+				"type": "CRM_BUPA_ODATA.Contact",
+				"etag": "W/\"'92CD05A550E6C06AB81EC21FDD67DEAE9CBC799B'\""
+			},
+			"contactID": "425018",
+			"accountID": "425017",
+			"firstName": "Tom",
+			"lastName": "Smtih",
+			"fullName": "Prof. Tom Smtih",
+			"searchText": "TOM SMTIH TOM QUNIT-CORPORATEACCOUNT",
+			"birthDate": "\/Date(1420502400000)\/",
+			"company": "QUNIT-CorporateAccount DO NOT CHANGE!",
+			"function": "Manager",
+			"department": "Sales",
+			"titleID": "0004",
+			"title": "Mr. and Mrs.",
+			"academicTitleID": "0002",
+			"academicTitle": "Professor",
+			"isMyContact": false,
+			"isMainContact": false,
+			"createdAt": "\/Date(1421069815000)\/",
+			"eTag": "92CD05A550E6C06AB81EC21FDD67DEAE9CBC799B",
+			"WorkAddress": {
+				"__deferred": {
+					"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/ContactCollection(contactID='425018',accountID='425017')/WorkAddress"
+				}
+			},
+			"MainAddress": {
+				"__deferred": {
+					"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/ContactCollection(contactID='425018',accountID='425017')/MainAddress"
+				}
+			},
+			"Photo": {
+				"__deferred": {
+					"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/ContactCollection(contactID='425018',accountID='425017')/Photo"
+				}
+			},
+			"Notes": {
+				"__deferred": {
+					"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/ContactCollection(contactID='425018',accountID='425017')/Notes"
+				}
+			},
+			"Attachments": {
+				"__deferred": {
+					"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/ContactCollection(contactID='425018',accountID='425017')/Attachments"
+				}
+			},
+			"Account": {
+				"__deferred": {
+					"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/ContactCollection(contactID='425018',accountID='425017')/Account"
+				}
+			}
+		}]
+	}
+}

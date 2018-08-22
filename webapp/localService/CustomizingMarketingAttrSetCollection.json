@@ -1,0 +1,16 @@
+{
+	"d": {
+		"results": [{
+			"attributeSetID": "QUNIT_FIORI_TESTS",
+			"attributeSet": "QUnit Fiori Tests - DO NOT TOUCH",
+			"category": "",
+			"person": "X",
+			"organization": "X",
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingMarketingAttrSetCollection('QUNIT_FIORI_TESTS')",
+				"type": "CRM_BUPA_ODATA.CustomizingMarketingAttrSet",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingMarketingAttrSetCollection('QUNIT_FIORI_TESTS')"
+			}
+		}]
+	}
+}

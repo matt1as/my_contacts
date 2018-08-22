@@ -1,0 +1,57 @@
+{
+	"d": {
+		"results": [{
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/AddressCollection(addressNumber='53038',accountID='425017',contactID='')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/AddressCollection(addressNumber='53038',accountID='425017',contactID='')",
+				"type": "CRM_BUPA_ODATA.Address",
+				"etag": "W/\"'CC3A20CEE9D64F3E82A7699FA2311AAF19E25E96'\""
+			},
+			"addressNumber": "53038",
+			"accountID": "425017",
+			"contactID": "",
+			"mobilePhone": "+49 (157) 87783503",
+			"phone": "+49 (6227) 7 111111",
+			"email": "info@qunit_account.com",
+			"website": "www.qunit_account.com",
+			"address": "Dietmar-Hopp-Allee 1\r\nD-69190 WALLDORF",
+			"street": "Dietmar-Hopp-Allee",
+			"houseNumber": "1",
+			"postcode": "69190",
+			"city": "Walldorf",
+			"countryID": "DE",
+			"country": "Germany",
+			"regionID": "08",
+			"region": "Baden-Wurttemberg",
+			"department": "",
+			"function": "",
+			"eTag": "CC3A20CEE9D64F3E82A7699FA2311AAF19E25E96"
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/AddressCollection(addressNumber='53038',accountID='425017',contactID='425021')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/AddressCollection(addressNumber='53038',accountID='425017',contactID='425021')",
+				"type": "CRM_BUPA_ODATA.Address",
+				"etag": "W/\"'3EC428E5AFBD8F545422E6A60165B6B967634466'\""
+			},
+			"addressNumber": "53038",
+			"accountID": "425017",
+			"contactID": "425021",
+			"mobilePhone": "+49 (0157) 87783503",
+			"phone": "+49 (06227) 7 12345",
+			"email": "anna.mueller@qunit_account.com",
+			"website": "",
+			"address": "Dietmar-Hopp-Allee 1\r\nD-69190 WALLDORF",
+			"street": "",
+			"houseNumber": "",
+			"postcode": "",
+			"city": "Walldorf",
+			"countryID": "",
+			"country": "Germany",
+			"regionID": "",
+			"region": "",
+			"department": "",
+			"function": "",
+			"eTag": "3EC428E5AFBD8F545422E6A60165B6B967634466"
+		}]
+	}
+}

@@ -1,0 +1,38 @@
+{
+	"d": {
+		"results": [{
+			"title": "0001",
+			"titleDescription": "Ms.",
+			"person": "X",
+			"organization": "X",
+			"group": "",
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingTitleCollection('0001')",
+				"type": "CRM_BUPA_ODATA.CustomizingTitle",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingTitleCollection('0001')"
+			}
+		}, {
+			"title": "0002",
+			"titleDescription": "Mr.",
+			"person": "X",
+			"organization": "X",
+			"group": "",
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingTitleCollection('0002')",
+				"type": "CRM_BUPA_ODATA.CustomizingTitle",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingTitleCollection('0002')"
+			}
+		}, {
+			"title": "0003",
+			"titleDescription": "Company",
+			"person": "X",
+			"organization": "X",
+			"group": "",
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingTitleCollection('0003')",
+				"type": "CRM_BUPA_ODATA.CustomizingTitle",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/CustomizingTitleCollection('0003')"
+			}
+		}]
+	}
+}

@@ -1,0 +1,61 @@
+{
+	"d": {
+		"results": [{
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/AttachmentCollection(documentID='40F2E963AFAA1EE4A6CCD5E8103AAD4Z',documentClass='BDS_POC1',businessPartnerID='425021')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/AttachmentCollection(documentID='40F2E963AFAA1EE4A6CCD5E8103AAD4Z',documentClass='BDS_POC1',businessPartnerID='425021')",
+				"type": "CRM_BUPA_ODATA.Attachment",
+				"etag": "W/\"'CA161CFC6F7F669784E5FA5ED53440331FD528A4'\"",
+				"content_type": "image/jpeg",
+				"edit_media": "/sap/opu/odata/sap/CRM_BUPA_ODATA/AttachmentCollection(documentID='40F2E963AFAA1EE4A6CCD5E8103AAD4Z',documentClass='BDS_POC1',businessPartnerID='425021')/$value",
+				"edit_media": "/sap/opu/odata/sap/CRM_BUPA_ODATA/AttachmentCollection(documentID='40F2E963AFAA1EE4A6CCD5E8103AAD4Z',documentClass='BDS_POC1',businessPartnerID='425021')/$value"
+			},
+			"documentID": "40F2E963AFAA1EE4A6CCD5E8103AAD4Z",
+			"documentClass": "BDS_POC1",
+			"businessPartnerID": "425021",
+			"name": "Desert.jpg",
+			"description": "Desert.jpg",
+			"createdAt": "\/Date(1421072655000)\/",
+			"createdBy": "Prof. Dr. John Doe",
+			"fileSize": "12312",
+			"mimeType": "image/jpeg",
+			"URL": "",
+			"eTag": "CA161CFC6F7F669784E5FA5ED53440331FD528A4",
+			"isMyAttachment": false,
+			"belongsToMyObjects": false,
+			"Content": {
+				"__deferred": {
+					"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/AttachmentCollection(documentID='40F2E963AFAA1EE4A6CCD5E8103AAD4E',documentClass='BDS_POC1',businessPartnerID='425021')/Content"
+				}
+			}
+		}, {
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/AttachmentCollection(documentID='40F2E963AFAA1EE4A6CCD5E8103AAD4E',documentClass='BDS_POC1',businessPartnerID='425021')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/AttachmentCollection(documentID='40F2E963AFAA1EE4A6CCD5E8103AAD4E',documentClass='BDS_POC1',businessPartnerID='425021')",
+				"type": "CRM_BUPA_ODATA.Attachment",
+				"etag": "W/\"'CA161CFC6F7F669784E5FA5ED53440331FD528A4'\"",
+				"content_type": "image/jpeg",
+				"media_src": "/sap/opu/odata/sap/CRM_BUPA_ODATA/AttachmentCollection(documentID='40F2E963AFAA1EE4A6CCD5E8103AAD4E',documentClass='BDS_POC1',businessPartnerID='425021')/$value",
+				"edit_media": "/sap/opu/odata/sap/CRM_BUPA_ODATA/AttachmentCollection(documentID='40F2E963AFAA1EE4A6CCD5E8103AAD4E',documentClass='BDS_POC1',businessPartnerID='425021')/$value"
+			},
+			"documentID": "40F2E963AFAA1EE4A6CCD5E8103AAD4E",
+			"documentClass": "BDS_POC1",
+			"businessPartnerID": "425021",
+			"name": "Lighthouse.jpg",
+			"description": "Lighthouse.jpg",
+			"createdAt": "\/Date(1421072655000)\/",
+			"createdBy": "Prof. Dr. John Doe",
+			"fileSize": "12312",
+			"mimeType": "image/jpeg",
+			"URL": "",
+			"eTag": "CA161CFC6F7F669784E5FA5ED53440331FD528A4",
+			"isMyAttachment": false,
+			"belongsToMyObjects": false,
+			"Content": {
+				"__deferred": {
+					"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/AttachmentCollection(documentID='40F2E963AFAA1EE4A6CCD5E8103AAD4E',documentClass='BDS_POC1',businessPartnerID='425021')/Content"
+				}
+			}
+		}]
+	}
+}

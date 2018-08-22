@@ -1,0 +1,36 @@
+{
+	"d": {
+		"results": [{
+			"__metadata": {
+				"id": "/sap/opu/odata/sap/CRM_BUPA_ODATA/EmployeeCollection('423461')",
+				"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/EmployeeCollection('423461')",
+				"type": "CRM_BUPA_ODATA.Employee"
+			},
+			"employeeID": "423461",
+			"firstName": "John",
+			"lastName": "Doe",
+			"titleID": "0002",
+			"title": "Mr.",
+			"academicTitleID": "0003",
+			"academicTitle": "Professor Dr",
+			"fullName": "Prof. Dr. John Doe",
+			"position": "Manager PC4U Europ",
+			"isDefaultEmployee": true,
+			"WorkAddress": {
+				"__deferred": {
+					"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/EmployeeCollection('423461')/WorkAddress"
+				}
+			},
+			"Company": {
+				"__deferred": {
+					"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/EmployeeCollection('423461')/Company"
+				}
+			},
+			"Photo": {
+				"__deferred": {
+					"uri": "/sap/opu/odata/sap/CRM_BUPA_ODATA/EmployeeCollection('423461')/Photo"
+				}
+			}
+		}]
+	}
+}

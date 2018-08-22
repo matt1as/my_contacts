@@ -1,0 +1,76 @@
+{
+	"_version": "1.1.0",
+	"sap.app": {
+		"_version": "1.1.0",
+		"id": "cus.crm.mycontacts.CRM_MYCONTExtension",
+		"type": "application",
+		"applicationVersion": {
+			"version": "1.0"
+		},
+		"title": "{{MY_CONTACTS}}",
+		"dataSources": {
+			"CRM_BUPA_ODATA": {
+				"uri": "/sap/opu/odata/sap/ZCRM_BUPA_ODATA_SRV/",
+				"settings": {
+					"localUri": "./localService/metadata.xml"
+				}
+			}
+		},
+		"sourceTemplate": {
+			"id": "fioriexttemplate.replaceservicecomponent",
+			"version": "1.4.0"
+		},
+		"i18n": "i18n/i18n.properties"
+	},
+	"sap.ui": {
+		"_version": "1.1.0",
+		"technology": "UI5",
+		"icons": {
+			"icon": "sap-icon://Fiori2/F0004",
+			"favIcon": "./resources/sap/ca/ui/themes/base/img/favicon/F0004_My_Contacts.ico"
+		},
+		"deviceTypes": {
+			"desktop": true,
+			"tablet": true,
+			"phone": true
+		},
+		"supportedThemes": [
+			"sap_hcb,sap_bluecrystal"
+		]
+	},
+	"sap.ui5": {
+		"_version": "1.1.0",
+		"dependencies": {
+			"minUI5Version": "1.38.9"
+		},
+		"extends": {
+			"component": "cus.crm.mycontacts",
+			"extensions": {
+				"sap.ui.viewExtensions": {
+					"cus.crm.mycontacts.view.ContactDetails": {
+						"extContactDetailsInfo": {
+							"className": "sap.ui.core.Fragment",
+							"fragmentName": "cus.crm.mycontacts.CRM_MYCONTExtension.view.ContactDetails_extContactDetailsInfoCustom",
+							"type": "XML"
+						}
+					}
+				}
+			}
+		},
+		"contentDensities": {
+			"compact": false,
+			"cozy": true
+		},
+		"config": {
+			"sap.ca.serviceConfigs": [
+				{
+					"name": "CRM_BUPA_ODATA",
+					"isDefault": true
+				}
+			],
+			"sap.ca.i18Nconfigs": {
+				"bundleName": "cus.crm.mycontacts.CRM_MYCONTExtension.i18n.i18n"
+			}
+		}
+	}
+}

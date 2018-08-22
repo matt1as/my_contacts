@@ -1,0 +1,115 @@
+{
+  "welcomeFile": "/webapp/index.html",
+  "routes": [
+    {
+      "path": "/sap/bc/ui5_ui5",
+      "wattUsage": "ui5_execute_abap",
+      "target": {
+        "type": "destination",
+        "name": "TCU",
+        "entryPath": "/sap/bc/ui5_ui5"
+      },
+      "description": "TCU"
+    },
+    {
+      "path": "/sap/opu/odata",
+      "target": {
+        "type": "destination",
+        "name": "TCU",
+        "entryPath": "/sap/opu/odata"
+      },
+      "description": "TCU"
+    },
+    {
+      "path": "/resources/sap/cus/crm/lib/reuse",
+      "target": {
+        "type": "destination",
+        "name": "TCU",
+        "entryPath": "/sap/bc/ui5_ui5/sap/crm_lib_reuse/sap/cus/crm/lib/reuse",
+        "preferLocal": true
+      },
+      "description": "sap/cus/crm/lib/reuse Reuse Library"
+    },
+    {
+      "path": "/webapp/resources/sap/cus/crm/lib/reuse",
+      "target": {
+        "type": "destination",
+        "name": "TCU",
+        "entryPath": "/sap/bc/ui5_ui5/sap/crm_lib_reuse/sap/cus/crm/lib/reuse",
+        "preferLocal": true
+      },
+      "description": "sap/cus/crm/lib/reuse Reuse Library"
+    },
+    {
+      "path": "/webapp/resources",
+      "target": {
+        "type": "service",
+        "name": "sapui5",
+        "entryPath": "/resources",
+        "version": "1.52.9"
+      },
+      "description": "SAPUI5 Resources"
+    },
+    {
+      "path": "/webapp/test-resources",
+      "target": {
+        "type": "service",
+        "name": "sapui5",
+        "entryPath": "/test-resources",
+        "version": "1.52.9"
+      },
+      "description": "SAPUI5 Test Resources"
+    },
+    {
+      "path": "/dist/resources/sap/cus/crm/lib/reuse",
+      "target": {
+        "type": "destination",
+        "name": "TCU",
+        "entryPath": "/sap/bc/ui5_ui5/sap/crm_lib_reuse/sap/cus/crm/lib/reuse",
+        "preferLocal": true
+      },
+      "description": "sap/cus/crm/lib/reuse Reuse Library"
+    },
+    {
+      "path": "/dist/resources",
+      "target": {
+        "type": "service",
+        "name": "sapui5",
+        "entryPath": "/resources",
+        "version": "1.52.9"
+      },
+      "description": "SAPUI5 Resources"
+    },
+    {
+      "path": "/dist/test-resources",
+      "target": {
+        "type": "service",
+        "name": "sapui5",
+        "entryPath": "/test-resources",
+        "version": "1.52.9"
+      },
+      "description": "SAPUI5 Test Resources"
+    },
+    {
+      "path": "/resources",
+      "target": {
+        "type": "service",
+        "name": "sapui5",
+        "entryPath": "/resources",
+        "version": "1.52.9"
+      },
+      "description": "SAPUI5 Resources"
+    },
+    {
+      "path": "/test-resources",
+      "target": {
+        "type": "service",
+        "name": "sapui5",
+        "entryPath": "/test-resources",
+        "version": "1.52.9"
+      },
+      "description": "SAPUI5 Test Resources"
+    }
+  ],
+  "sendWelcomeFileRedirect": true
+}
